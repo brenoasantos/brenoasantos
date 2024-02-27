@@ -4,7 +4,7 @@
 - 📫 How to reach me:
   - Linkedin: https://www.linkedin.com/in/breno-santos-00b71a20b/
   - E-mail: brenoaas2@gmail.com
-- ⚡ Fun fact: my peak elo in League of Legends was Grandmaster 706 lp.
+- ⚡ Fun fact: my peak elo in League of Legends is Grandmaster 706 lp.
 
 <!---
 brenoasantos/brenoasantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
