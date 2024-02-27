@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Fullstack Development
 - 📫 How to reach me:
   - Linkedin: https://www.linkedin.com/in/breno-santos-00b71a20b/
-  - e-mail: brenoaas2@gmail.com
+  - E-mail: brenoaas2@gmail.com
 - ⚡ Fun fact: my peak elo in League of Legends was Grandmaster 706 lp.
 
 <!---
