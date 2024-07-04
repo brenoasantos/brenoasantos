@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @brenoasantos
-- 👀 I'm interested in finding my first job opportunity
-- 🌱 I’m currently learning: Fullstack Development
+- ⚙️ I'm a Data Engineer Intern at Visagio
+- 🌱 Currently developing my skills in the data area
 - 📫 How to reach me:
-  - Linkedin: https://www.linkedin.com/in/breno-santos-00b71a20b/
+  - Linkedin: [https://www.linkedin.com/in/brenoaasantos/](https://www.linkedin.com/in/brenoaasantos/)
   - E-mail: brenoaas2@gmail.com
 - ⚡ Fun fact: my peak elo in League of Legends is Grandmaster 706 lp.
 
