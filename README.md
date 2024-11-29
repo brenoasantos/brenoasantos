@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @brenoasantos
-- ⚙️ I'm a Data Engineer Intern at Visagio
+- ⚙️ I'm a Data Engineer at Visagio
+- ✏️ Information Systems student at Universidade Federal de Pernambuco
 - 🌱 Currently developing my skills in the data area
 - 📫 How to reach me:
   - Linkedin: [https://www.linkedin.com/in/brenoaasantos/](https://www.linkedin.com/in/brenoaasantos/)
