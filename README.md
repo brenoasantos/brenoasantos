@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brenoasantos
 - ⚙️ I'm a Data Engineer at Neurotech
 - 🎓 B.Sc. in Information Systems – Universidade Federal de Pernambuco (UFPE)
-- 🌱 Continuously evolving and developing my skills across the technology field
+- 🌱 Continuously evolving and developing my skills across the data software engineering field
 - 📫 How to reach me:
   - Linkedin: [https://www.linkedin.com/in/brenoaasantos/](https://www.linkedin.com/in/brenoaasantos/)
   - E-mail: brenoaas2@gmail.com
